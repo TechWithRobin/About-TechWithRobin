@@ -8,5 +8,6 @@ pro :- Youtube
 from :- India 
 email :- ideaskillmoney@gmail.com
 YouTube channel name :- TechWithRobin
-website :- https://www.TechWithRobin.blogspot.com
+website :- https://techwithrobin.blogspot.com/
+YouTube :- https://youtube.com/channel/UC0au6t2LtRqhHOCwGyOi6gA
 
